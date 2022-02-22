@@ -1,0 +1,263 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exhortation to all people</title>
+            <author>Atkinson, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26136</idno>
+            <idno type="STC">Wing A4132</idno>
+            <idno type="STC">ESTC R37294</idno>
+            <idno type="EEBO-CITATION">16318474</idno>
+            <idno type="OCLC">ocm 16318474</idno>
+            <idno type="VID">105294</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26136)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105294)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1604:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exhortation to all people</title>
+                  <author>Atkinson, Thomas.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Tho. Atkinson.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: tightly bound</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Freedom of religion --  England.</term>
+               <term>Society of Friends --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:105294:1"/>
+            <pb n="1" facs="tcp:105294:1" rendition="simple:additions"/>
+            <head>An <hi>Exhortation</hi> to all People. Moderate Reader, be ſerious, and mind theſe following things, and then I believe thou wilt Judge charitably of them.</head>
+            <p>
+               <hi>THe true Church is in God, the Father of our Lord Jeſus Chriſt, the pillar &amp; ground of Truth,</hi> 1 Theſ. 1.1. 2 Theſ. 1.1. 1 Tim. 3.15. <hi>Howbeit the moſt high dwelleth not in Temples made with hands,</hi> Act. 7.48. <hi>The Saints Bodies, they are the temple of God, and God dwells and walks in his own Temple,</hi> 1 Cor. 3.16. and 6.19. 2 Cor. 6.16. <hi>And what houſe will ye build unto me ſaith the Lord? is not Heaven my Throne, and Earth my Footſtool?</hi> Act. 7.4<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, 50, 51. <hi>And the true everlaſting High Prieſt rules in us, Chriſt Jeſus, (the Saints Teacher) who was not made after the Law, of a Carnal Commandment, but after the power of an endleſs Life, and ſo remains a Prieſt forever,</hi> Heb. 7.24. &amp;c. <hi>And Chriſt ſaid, Come unto me, and learn of me,</hi> Mat. 11.28, 29, 30. <hi>The true Baptiſm is inward by the Spirit, for as many of you as have been Baptized into Chriſt, have put on Chriſt,</hi> Gall. 3.27, 28, 29. <hi>And there is one Body, and one Spirit, even as ye are called in one hope of your calling, one Lord, one Faith, one Baptiſm, one God and Father of all; who is a<g ref="char:EOLhyphen"/>live all, through all, and in you all,</hi> Epheſ. 4.4, 5, 6. <hi>And by one Spirit are we all Baptized into one Body,</hi> 1 Cor. 12.13. <hi>And the true Communion is inward in the Spirit, and Jeſus ſaid unto them, I am the Bread of Life, and except ye eat my Fleſh, and drink my Blood, ye have no Life in you,</hi> Joh. 6. from 48. to 59. <hi>And the true wor<g ref="char:EOLhyphen"/>ſhip of Chriſt is in the Spirit within his People, for he ſaid, they that will worſhip God, muſt worſhip him in Spirit and Truth,</hi> read his Conference with the Woman of <hi>Samaria,</hi> Joh. Chap. 4. and Rom. Chap. 8.</p>
+            <p>Now upon the whole matter, I do ſay and affirm, that Chriſt is within his People, and that he was and is the Saints Teacher, and as he is the true Teacher, ſo he will continue to be the laſt<g ref="char:punc">▪</g> and whoſoever ſet up Hireling Teachers, and follow them, and neglect Chriſts teachings in their own Boſoms; ſuch Teach<g ref="char:EOLhyphen"/>ers
+<pb n="2" facs="tcp:105294:2"/> are the Falſe Teachers, which <hi>Jude</hi> the Servant of the Lord in his general Epiſtle teſtified againſt. And ſuch are they now, &amp; of the ſame Nature and Generation with the Scribes and Pha<g ref="char:EOLhyphen"/>riſees, which Chriſt Jeſus pronounced ſo many Woes againſt, as in <hi>Mat.</hi> 23. let that be minded, for they are ſeen with the Light of Jeſus, which manifeſts all things, of what ſort it is.</p>
+            <p>And let the Hireling Prieſts of theſe times, Profeſſors or Prophane, ſuch as have charged us (who in ſcorn are called <hi>Quakers</hi>) to be <hi>Denyers of the Scriptures;</hi> let ſober People judge whether they or we be the denyers of the Scriptures, in Life, Practice and Converſation, let them be denied &amp; turned from, provided the Scriptures without wreſting may be judge therein; for to the Spirit of God and them, we ſhall appeal, that what we hold, profeſs and practice, they ſhall juſtify us therein, rightly underſtood ſpiritually, and lay aſide your outward Laws, and carnal Weapons; and let Gods Divine Royal Law, and Spiritual Weapons, decide this great Controverſie in theſe things that concern Eternal Salvation and Damnation. <hi>For all the Children of the Lord are taught of the Lord, and in Righteouſneſs are they eſtabliſhed,</hi> as in Iſa. 54.13, 14. Jer. 31.33, 34. thus it is written in the Prophets; <hi>And they ſhall be all taught of God; every Man therefore that hath heard and learned of the Father, cometh unto me,</hi> ſaith Chriſt, Joh. 6.45. <hi>And the Grace of God which brings Salvation, hath appeared to all Men, and this Grace of God teacheth the Saints to deny Ungodlineſs and Worldly Luſt, and to live ſoberly and righteouſly in this preſent Evil World.</hi> And all who turn from this Grace, they turn into Wantonneſs, and ſo deny the Lord that bought them.</p>
+            <p>And as the Apoſtle writ in his Epiſtle to the <hi>Romans, Becauſe that which may be known of God is manifeſt in them, for God hath ſhew<g ref="char:EOLhyphen"/>ed it to them,</hi> Rom. 1.19. ſo that it is clear and evident by the S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riptures of Truth, that the true Teacher Chriſt is within Peo<g ref="char:EOLhyphen"/>ple, and cannot be removed into a Corner, nor does no more. And this is the Judgment and Doctrine of all Chriſts Faithful
+<pb n="3" facs="tcp:105294:2"/> Miniſters, who are called, choſen, and ſent of him, as the A<g ref="char:EOLhyphen"/>poſtles and Diſciples were.</p>
+            <p>And therefore the Lords choſen People can ſay, away with all covetous Hireling Teachers, for they are uſeleſs, and let them learn to labour with their hands, as the Apoſtles did, and as the true Miniſters of Chriſt now do, and ſo let the Goſpel of Chriſt Jeſus be free, and not chargeable to any people.</p>
+            <div type="part">
+               <head>Some things offered to the Conſideration of all you who are call'd Magiſtrates and Rulers over the People, and to all your under Officers, and your Hireling Teachers of all ſorts, who pretend the Scripture to be your Rule, who with your outward Laws, do Force and Compel many ſuch as abſent from you in your Worſhip, to joyn with you therein; which thing never was the practice of the Lord's People in any Age, recorded in the Scriptures of Truth, and ſo out of the Order and Rule of the Scriptures.</head>
+               <p>ANd your Church (as you call it) was it not the <hi>Papiſts <hi>Old Maſſe-houſe?</hi>
+                  </hi> and by them builded when they were in Power? Is it not ſo filled, and the Aſſembly therein with People that live in Pride, Pleaſures, Perſecution, Drunkenneſs, Ly<g ref="char:EOLhyphen"/>ing and Swearing, and ſuch like Sins? and that you ſtill ſay you are Miſerable Sinners, erring and going aſtray like loſt Sheep, and doing that you ſhould not do, and leaving that un<g ref="char:EOLhyphen"/>done which you ſhould do, is not this your weekly Confeſſion, and daily Practice? let God's true Witneſs in all ſober People anſwer; and if ſo (then for my part) I dare not joyn with you therein, nor be a Member of that Church, whatever I ſuffer be it,</p>
+               <p>And I am apt to believe, that you may make Hypocrites to come &amp; joyn with you, by your forceing Laws, but take heed they be not ſuch, as if they had opportunity and power, would turn againſt you and deſtroy: has there not been ſome appearances thereof both in former and latter Years? But thoſe whom the Lord hath redeemed and brought into his Spiritual Worſhip, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>not bow to any Likeneſs, Image, or outward Form of Wor<g ref="char:EOLhyphen"/>ſhip,
+<pb n="4" facs="tcp:105294:3"/> where the Power and Preſence of God is wanting; for it was the Apoſtles Exhortation to turn away from ſuch as had a Form of Godlineſs, but denied the Power thereof: Neither can the Redeemed of the Lord conform to your way of Wor<g ref="char:EOLhyphen"/>ſhip; for the ſame Apoſtle ſaith to thoſe he writ to, <hi>But be not ye conformed to the World, but transformed, by the renewing of your Mind,</hi> &amp;c. as in Rom. 12.2. <hi>Neither can we faſhion our ſelves according to the courſe of this World, which paſſeth away,</hi> 1 Cor. 7.31. <hi>And our Kingdom is not of this World, even as our Lord and Maſters was not of this World; for we ſeek another Kingdome, Eter<g ref="char:EOLhyphen"/>nal in the Heavens; whoſe Maker, Builder and Upholder is God,</hi> 1 Theſſ. 1.1. And all that we deſire from you who are in Au<g ref="char:EOLhyphen"/>thority, that you would let the Spirit of God and the Scriptures be your rule in all your actings, &amp; if we digreſs from the ſame upon an equal tryal, then let the Tranſgreſſors ſuffer according to Law; <hi>For the Law was added becauſe of Tranſgreſſion, &amp; is not to be laid upon a righteous Man; but unto the Lawleſs and Diſobedient, to the Ungod<g ref="char:EOLhyphen"/>ly and Sinners,</hi> &amp;c. as in the 1 Tim. 1.9, 10. <hi>And the Law of God is Juſt, Holy and Good, as was in the beginning, which is to fear and ſerve God above all things, and to walk humbly before him, to deal Juſtly and to love Mercy, to do to others as we would be done unto.</hi> And here is the Law, the Prophets, and the Goſpel of Jeſus anſwer<g ref="char:EOLhyphen"/>ed, which was in the beginning, and which will never come to an end: And whoſoever goes from this Law of the Spirit, goes out of the order and rule of the Scriptures.</p>
+               <p>Neither is our warfare and Weapons Carnal, or deſtructive to the Bodies of any; but Spiritual and Mighty, to the pulling down the Man of Sin, the grand Enemy of the Soul, for we deſire not to contend with Fleſh and Blood; but for the Faith which once was and now is delivered to the Saints. This is our Warfare, and therefore ye ought in right reaſon, and by the rule of the Scriptures, to let us live peaceably by you, and not to turn your Swords againſt us; for the Magiſtrates Sword was and ought to be for the Puniſhment of Evil-doers, and for the praiſe or them that do well, and in ſo doing then you are in the
+<pb n="5" facs="tcp:105294:3"/> place of true Juſtice, and ſo in the order and rule of the Spirit of God and the Scriptures, which all People upon the face of the whole Earth is out of, which does that to others, which they would not have others do unto them; for whatſoever ye would that Men ſhould do unto you, do you ſo unto them; this is the order and rule of the Spirit of God and the Scriptures; and when theſe things come to be minded and practiſed, and then will Perſecution about Religion ceaſe and come to an end, and all Perſecuting Laws will be laid aſide, and Righteouſneſs will run down the Streets, like a mighty ſtream, and the knowledge of God will cover the Earth, as the Waters cover the Seas; this is that the Righteous pray for, wait for, and live in hopes (in Gods time) to ſee the ſame fulfilled.</p>
+               <p>And now a little to examin (comparativly) of the dwellings of Gods Enemies in former Ages, and in this our Age, againſt the Lords People and Servants; whereby the moderate Reader, may come to have an inſight and underſtanding by this preſent Relation.</p>
+               <p>Was it not the High Prieſt, the Chief Prieſt, and the Cap<g ref="char:EOLhyphen"/>tain of the Temple with his Officers, that roſe up againſt the A<g ref="char:EOLhyphen"/>poſtles, and Impriſoned them; ſaying, <hi>Did not we straitly com<g ref="char:EOLhyphen"/>mand you, that you ſhould not teach in this Name?</hi> (viz. Chriſt) read Act. 5.17. and take counſel at the good Man <hi>Gamaliel</hi> therein mentioned, then it may tend to your good.</p>
+               <p>And may it not truly be ſaid, that the Chief Prieſt and Ru<g ref="char:EOLhyphen"/>lers, and the baſer ſort of Men, were the greateſt Perſecutors in the days of Chriſt and his Apoſtles? let the Scriptures and Gods faithful Witneſs in all ſober Men anſwer.</p>
+               <p>And was it not the Chief Prieſt and Rulers that ſet <hi>Saul</hi> for<g ref="char:EOLhyphen"/>ward in his Perſecution, till the Lord ſtruck him down, that he fell to the Earth; and after his Converſion, when he came to preach Chriſt Jeſus, then the learned Jews took counſel to kill him, but the Lord ſo ordered it, that they were diſappointed thereof, and he delivered <hi>Paul, Act.</hi> 9.</p>
+               <p>And how did the Perſecuting Jews when they ſaw <hi>Paul</hi> in the
+<pb n="6" facs="tcp:105294:4"/> Temple, ſtir up all the People and laid hands on him, crying out, <hi>Men of Iſrael Help, &amp;c.</hi> Act. 21.27. &amp;c.</p>
+               <p>And is not this Perſecuting Spirit at work in this our Age? Yes, for it is one and the ſame through all Generations, <hi>For as it was then, ſo it is now, he that is born after the Fleſh, perſecutes him that is born after the Spirit,</hi> theſe are the two Births as in the firſt of Joh. 12, 13, 14. verſes.</p>
+               <p>And in <hi>Acts</hi> 23. when <hi>Paul</hi> began to plead his own cauſe, you may read how the High Prieſt <hi>Annanias</hi> commanded them that ſtood by him, to ſmite him on the Face; and have not many Faithful Friends had the like uſage from the Prieſts in this Age. In which Chap. you may read how the Jews had banded together and bound themſelves under a Curſe, ſaying, <hi>They would neither Eat nor Drink till they had killed</hi> Paul. But you may read how the Lord prevented theſe Bloody Perſecutors, and delivered him.</p>
+               <p>And in <hi>Act.</hi> 24. you may read how that <hi>Ananias</hi> the High Prieſt, deſcend<g ref="char:EOLhyphen"/>ed with the Elders and others, who informed the Governour againſt <hi>Paul, How they had found him a peſtilent Fellow, a mover of Sedition among all the Jews, throughout the World.</hi> Read the Chap. throughout, there you have his Examination before the Chief Captain <hi>Lyſias,</hi> &amp; how he was ſent to <hi>Foelix</hi> the Governour, who for doing the Jews a pleaſure left <hi>Paul</hi> Bound.</p>
+               <p>And in Chap. 25. you may read how the High Prieſt, and the Chief of the Jews, informed <hi>Feſtus</hi> againſt <hi>Paul,</hi> and how they laid in wait to kill him; but there was ſo much Nobility and Charity in <hi>Feſtus,</hi> up<g ref="char:EOLhyphen"/>on Pauls Examination, that he would not grant what they deſired, read the Chapter throughout. And in <hi>Act.</hi> Chap. 26. you may read his Con<g ref="char:EOLhyphen"/>feſſion, and the relation or manner of his Converſion before King <hi>A<g ref="char:EOLhyphen"/>grippa;</hi> and as he ſpoke for himſelf, <hi>Festus</hi> ſaid with a loud Voice, Paul <hi>thou art beſide thy ſelf, much Learning doth make thee Mad.</hi> But he ſaid, <hi>I am not Mad, moſt Noble</hi> Feſtus, <hi>but speak for the word of Truth and Soberneſs, &amp;c.</hi> And King <hi>Agrippa</hi> ſaid, <hi>Thou haſt almoſt perſwaded me to be a</hi> Chriſtian, read the Chapter throughout.</p>
+               <p>Now obſerve, did not ſome of thoſe whom you Chriſtians call Heathens ſhew more Chriſtian-like uſage in that Age, then many of the Rulers in England has done in this Age, yet would have the name of Chriſtian Ma<g ref="char:EOLhyphen"/>giſtrates. But the true real Chriſtians are followers of Chriſt in the Regene<g ref="char:EOLhyphen"/>ration; not in the oldneſs of the Letter, but in the newneſs of the Spirit, <hi>For the Letter killeth, but the Spirit giveth life,</hi> 2 Cor. 3.6. And it is not the Name that maketh a Chriſtian, but the Nature, not the 1ſt Nature, for that is
+<pb n="7" facs="tcp:105294:4"/> Earthly, Senſual &amp; Deviliſh; but the 2d Nature, the new Nature regenerated &amp; born again, for Chriſt Jeſus ſaid, <hi>Except a Man be born again, he cannot ſee the Kingdom if God; that which is born of the Fleſh, is Fleſh; and that which is born of the Sprit <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Spirit, marvel not that I ſaid unto you, ye muſt be born again, &amp;c.</hi> Joh. 3.3. to 8.</p>
+               <p>This perſecuting Spirit was always blind, it was blind in the great profeſſing Jews, who pretended a Law, whereby to put Chriſt to Death in that time; it was blind in the great profeſſing <hi>Presbyterians,</hi> who pretended a Law againſt us to perſecute us thereby, (but the Lord had no hand in thoſe Laws, further then permiſſion) and it is well if the Rulers in this Age proceed not to Blood, againſt a Harmleſs and Innocent People, for Profeſſing Chriſt Jeſus and Worſhipping him, in the way of his Spirit, who was ſent from the Boſome of his Father, <hi>Not to deſtroy mens lives, but to ſave them,</hi> Luk. 9.56.</p>
+               <p>And doth not Englands Rulers pretend a Law now, (and is it not contrary to Chriſts Law) not only for ſpoyling of Goods, but alſo caſting into Priſon, by which many have ſuffered to Death, which comes near to Blood, and is not this a mark of Satan the Deſtroyer, <hi>Rev.</hi> 2.10. for Chriſt Jeſus nor his Servants never caſt any into Priſon. Let the Spirit and Scriptures of Truth be judge in thoſe things, for to them I ſhall appeal, and methinks theſe times anſwer much, and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> parallel with the Apoſtles times, in matter of Perſecution; and it is the de<g ref="char:EOLhyphen"/>ſire of my heart (if it were the will of God) that the Underſtandings of Englands Rulers might come to be opened with Divine Wiſdom, that thereby they might come to ſee and diſcern betwixt thoſe that ſerve God acceptably, and thoſe that ſerve him not, and ſo put a difference betwixt the Precious and the Vile; for is not Antichriſts Kingdom of Sin and Unrighteouſneſs grown to a great height? and doth not Wickedneſs abound? and is not Chriſts Kingdom of Righteouſneſs too too little regarded; ſo that he that departs from Evil is become a Prey? and this the Lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d ſees, and in his own time will put an end to Sin, and finiſh Tranſ<g ref="char:EOLhyphen"/>greſſion, and bring in Everlaſting Righteouſneſs, and this will be the joy of the Upright in Heart, whoſe Confidence is in the Lord alone. And I ſay again, the true Worſhip of Chriſt is Spiritual; which he ſet up above 1600 Years ſince, (and never changed it) read John 4. from 20, to 25. And where two or three, many or few, meet together, and worſhip together in the Spiritual Worſhip, there is Chriſt in the midſt of them; and no other Worſhip will the Righteous God accept of, but that which is performed in Spirit and Truth; all other Wor<g ref="char:EOLhyphen"/>ſhips in his ſight will be found Idolatry, <hi>For God that made the World, and all things therein, dwells not in Temples made with Hands,</hi> read Act 7.48, 49, 50. And Chriſt ſaid, <hi>I in you, and you in me, ſo the Spirit of God is not to be limitted to time or place; and to day, if ye will hear his Voice, harden not your Hearts,</hi> &amp;c. This is not to hear the voice of a Mortal Man, but the voice of the Immortal God within all are to hear; this is the true Everlaſting Prophet, which <hi>Moſes</hi> the Man of God ſpoke of, and he that will not hear this Prophet Chriſt Jeſus, and receive his Teaching ſhall be cut off, &amp;c. the Apoſtle ſaith, becauſe they do not receive
+<pb n="8" facs="tcp:105294:5"/> him and his Spiritual Teachings, <hi>But to as many as receive him, to them <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> power to become the Sons of God.</hi> born again of the Immortal word of Life, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> lives and abides forever; but this was a myſtery to old <hi>Nichodemus.</hi> In his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and it is a myſtery to all Natural Carnal Wiſdom at this time; <hi>For the N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Man by all his Wiſdom, receives not the things of the Spirit of God, neither <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> becauſe they are spiritually diſcerned,</hi> 1 Cor. 2.11, 14. Here is living word<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a dying Man; yea, dead as to the World, and the Vanities and Rudiments <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of, yet living unto God, by Jeſus Chriſt, who is my Life and the length o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Dayes; who am a lover of the Souls of all People; one who is, and has <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Traveller towards the Heavenly and Spiritual <hi>Canaan,</hi> who by Chriſt Je<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> redeemed and brought out of the Broad way, which leads to Deſtruction, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the narrow way which leads to Life, and out of the Worlds Cuſtomes, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> paſſeſs away, into the Saints practice, which will never decay; and from <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Covetous Hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elings and Worlds Teachers, to the teachings of Chriſt Je<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in Spirit and Truth, and for theſe Mercys my Soul ſhall Bleſs and Praiſe the Lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and that for evermore.</p>
+            </div>
+            <closer>
+               <dateline>Writ in <date>the 8th month, in the Year of Chriſt, 1684.</date> And in the 80th Year of my Age</dateline>
+               <signed>T. Atkinſon.</signed>
+            </closer>
+            <postscript>
+               <head>POSTSCRIPT.</head>
+               <p>
+                  <hi>EDward Wilſon,</hi> who art a Juſtice of Peace, within <hi>Weſtmorland;</hi> neither thee, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> formers, (as thou ſtiles them,) have proved Friends Meetings, (whom thee in ſco<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>kers</hi>) to be Seditious Conventicles, or any way tending to the breach of the Peace of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> But on the contrary they are quiet and peaceable; and tend to Peace, in the God of Peace <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they meet, to ſerve and worſhip him in Spirit and Truth, as he requires of them. Read <hi>Jo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 21, 22, 23, 24.</hi> So that all, that thou and thy Informers has done againſt a harmleſs People, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Envy of your Hearts againſt the Lord, his Truth and People, in ſpoyling their goods, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> into Priſon: <hi>Is it not a Work of Satan the Devil,</hi> Rev. <hi>2.</hi> and <hi>10. Who is the</hi> A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Deſtroyer,</hi> Rev. <hi>4.11.</hi> There read your ſelves, and conſider if you are not comprehend<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Light of Jeſus.</p>
+               <p>And therefore, now a warning to you (from the Lord of Life and Glory; who will re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cording to your deeds:) Ceaſe from your unrighteous and unchriſtian like Actions, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>pentance before the Door of Mercy be ſhut againſt you; for an Account you muſt give to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ous Judge of Heaven and Earth. Theſe are true, and living Words, from a dying Ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to the World and the vanities thereof: But living unto God by Jeſus Chriſt, who is my <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> length of my Dayes.</p>
+               <closer>
+                  <signed>Tho. Atkinſon.</signed>
+               </closer>
+            </postscript>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:105294:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
